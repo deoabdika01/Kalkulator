@@ -7,7 +7,7 @@ body{
 .judul{
     width: 30%;
     margin: 0 auto;
-    margin-right: 200px;
+    margin-right: 20px;
 }
 .text{
     text-align: center;
@@ -18,7 +18,7 @@ body{
 .Kalkulator{
     text-align: center;
     margin: 0 auto;
-    margin-right: 200px;
+    margin-right: 20px;
     padding-top: 50px;
     width: 30%;
     background-color:rgb(175, 174, 174);
